@@ -1,6 +1,6 @@
 import "./Intro.css"
 import Me from "../../img/me3.png"
-const About = () => {
+const Intro = () => {
     return (
         <div className="intro">
             <div className="intro-left">
@@ -29,4 +29,4 @@ const About = () => {
     )
 }
 
-export default About
+export default Intro

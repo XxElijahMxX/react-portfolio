@@ -1,7 +1,13 @@
-import About from "./components/Header/Intro";
+import Intro from "./components/Header/Intro";
+import About from "./components/about/About";
 
 const App = () => {
-  return <div><About/></div>
-}
+  return (
+  <div>
+    <Intro/>
+    <About/>
+  </div>
+  );
+};
 
 export default App;
