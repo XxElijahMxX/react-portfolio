@@ -10,6 +10,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    height: 100%;
 }
 
 .about-right{
@@ -18,16 +19,19 @@
 
 .about-card.bg{
    position: absolute;
+   bottom: 200px;
+   right: 300px;
    background-color: blueviolet;
-   bottom: -350px;
-   right: 191px;
    display: flex;
    align-items: center;
+   justify-content: center;
 }
 .about-card{
     width: 60%;
     height: 70vh;
-    position: absolute;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
 }
 
 .about-img{

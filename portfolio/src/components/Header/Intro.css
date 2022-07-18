@@ -18,7 +18,7 @@
 .intro-left-wrap{
     padding: 50px;
     height: 30%;
-    ;
+    background-color: aqua;
 }
 .greeting{
     font-size: 30px;
@@ -78,4 +78,8 @@
     position: absolute;
     top: 0;
     right: 0;
+}
+
+.desc{
+    background-color: blueviolet;
 }
