@@ -75,7 +75,7 @@ button{
     border: none;
     padding: 15px;
     background-color: aqua;
-    color: white;
+    color:  rgb(6, 124, 228);
     font-weight: 500;
     cursor: pointer;
 }

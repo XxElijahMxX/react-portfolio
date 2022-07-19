@@ -17,8 +17,9 @@
 
 .intro-left-wrap{
     padding: 50px;
-    height: 30%;
+    height: 20%;
     background-color: aqua;
+    border-radius: 20px;
 }
 .greeting{
     font-size: 30px;
@@ -81,5 +82,5 @@
 }
 
 .desc{
-    background-color: blueviolet;
+    background-color:  rgb(6, 124, 228);
 }
