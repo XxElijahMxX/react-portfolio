@@ -1,7 +1,7 @@
 import "./res.css"
 const Resume = () => {
     return (
-        <div>
+        <div className="res">
             Resume
         </div>
     )
