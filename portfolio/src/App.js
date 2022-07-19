@@ -3,6 +3,7 @@ import About from "./components/about/About";
 import ProjectList from "./components/Project_List/Project.list";
 import Contact from "./components/Footer/Contact";
 import Navigation from "./components/Navigation/Nav";
+import Resume from "./components/Resume/Res";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
     <Navigation/>
     <Intro/>
     <About/>
+    <Resume/>
     <ProjectList/>
     <Contact/>
   </div>
