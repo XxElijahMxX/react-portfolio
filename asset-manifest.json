@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/http//XxElijahMxX.github.io/react-portfolio/static/css/main.bcf89cc2.css",
+    "main.js": "/http//XxElijahMxX.github.io/react-portfolio/static/js/main.c8e4c4d4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/http//XxElijahMxX.github.io/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/me2.png": "/http//XxElijahMxX.github.io/react-portfolio/static/media/me2.17631cb1e6439b4f771d.png",
+    "static/media/monster.JPG": "/http//XxElijahMxX.github.io/react-portfolio/static/media/monster.9929d1fe7aba3e25ad9b.JPG",
+    "static/media/address.png": "/http//XxElijahMxX.github.io/react-portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/http//XxElijahMxX.github.io/react-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "index.html": "/http//XxElijahMxX.github.io/react-portfolio/index.html",
+    "main.bcf89cc2.css.map": "/http//XxElijahMxX.github.io/react-portfolio/static/css/main.bcf89cc2.css.map",
+    "main.c8e4c4d4.js.map": "/http//XxElijahMxX.github.io/react-portfolio/static/js/main.c8e4c4d4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/http//XxElijahMxX.github.io/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf89cc2.css",
+    "static/js/main.c8e4c4d4.js"
+  ]
+}
