@@ -1,9 +1,9 @@
 import "./res.css"
 const Resume = () => {
     return (
-        <div className="res">
+        <h1 className="res">
             Resume
-        </div>
+        </h1>
     )
 }
 

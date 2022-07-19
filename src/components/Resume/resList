@@ -1,0 +1,37 @@
+export const ListItems = [
+    {
+        title: 'HTML',
+        cName: 'nav-links'
+    },
+    {
+        title: 'CSS',
+        cName: 'nav-links'
+    },{
+        title: 'Javascript',
+        cName: 'nav-links'
+    },{
+        title: 'SQL',
+        cName: 'nav-links'
+    },{
+        title: 'MangoDB',
+        cName: 'nav-links'
+    },{
+        title: 'NodeJS',
+        cName: ''
+    },{
+        title: 'NodeJS',
+        cName: ''
+    },{
+        title: 'NodeJS',
+        cName: ''
+    },{
+        title: 'NodeJS',
+        cName: ''
+    },{
+        title: 'NodeJS',
+        cName: ''
+    },{
+        title: 'NodeJS',
+        cName: ''
+    },
+]
