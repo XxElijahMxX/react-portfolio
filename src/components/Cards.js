@@ -10,9 +10,21 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="../image/PixelCart.png"
+              src="/images/PixelCart.png"
               text="Amazon clone for retro video game systems"
               label="ECommerce"
+              path="/projects"
+            />
+            <CardItem
+              src="/images/Weather Advice.png"
+              text="Weather app with random advice"
+              label="Weather"
+              path="/projects"
+            />
+            <CardItem
+              src="/images/run buddy.JPG"
+              text="Fitness Trainer landing page"
+              label="Website"
               path="/projects"
             />
           </ul>

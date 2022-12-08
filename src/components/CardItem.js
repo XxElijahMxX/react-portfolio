@@ -9,7 +9,7 @@ function CardItem(props) {
         <Link className="cards__item__link" to={props.path}>
           <figure className="cards__item__pic-wrap" data-category={props.label}>
             <img
-              src={require("../images/PixelCart.png").default}
+              src={process.env.PUBLIC_URL + props.src}
               alt="project img"
               className="cards__item__img"
             />
