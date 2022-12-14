@@ -1,0 +1,7 @@
+.social-links {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 50px;
+}
