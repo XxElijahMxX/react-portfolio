@@ -6,7 +6,7 @@
   }
   
   .home,
-  .services,
+  .center,
   .projects,
   .contact
  {
@@ -17,13 +17,12 @@
     font-size: 3rem;
   }
   
-  .services {
-    background-image: url(./images/japan1.jpg);
-    background-position: center;
-    background-size: auto;
-    background-repeat: no-repeat;
-    color: rgb(255, 255, 255);
-    font-size: 100px;
+  .center {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
   }
   
   .projects {
