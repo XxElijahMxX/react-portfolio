@@ -1,7 +1,7 @@
 {
   "name": "react-website-project-1",
   "version": "0.1.0",
-  "homepage": "https://XxElijahMxX.github.io/react-ghpages",
+  "homepage": "https://XxElijahMxX.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
