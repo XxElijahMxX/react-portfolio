@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-ghpages/static/css/main.1a0b6416.css",
-    "main.js": "/react-ghpages/static/js/main.5633d2d1.js",
-    "static/media/arashiyama-bamboo-grove-bamboo-forest-infrared-kyoto-japan-3000x2000-5288.jpg": "/react-ghpages/static/media/arashiyama-bamboo-grove-bamboo-forest-infrared-kyoto-japan-3000x2000-5288.2bc1887531ecae3c35e9.jpg",
-    "static/media/rainbow bridge.jpg": "/react-ghpages/static/media/rainbow bridge.f00b28159c380ac2d0c7.jpg",
-    "static/media/myresume.png": "/react-ghpages/static/media/myresume.6c894b68f09092a68b91.png",
-    "index.html": "/react-ghpages/index.html",
-    "main.1a0b6416.css.map": "/react-ghpages/static/css/main.1a0b6416.css.map",
-    "main.5633d2d1.js.map": "/react-ghpages/static/js/main.5633d2d1.js.map"
+    "main.css": "/react-portfolio/static/css/main.64d4d42b.css",
+    "main.js": "/react-portfolio/static/js/main.2c830b12.js",
+    "static/media/arashiyama-bamboo-grove-bamboo-forest-infrared-kyoto-japan-3000x2000-5288.jpg": "/react-portfolio/static/media/arashiyama-bamboo-grove-bamboo-forest-infrared-kyoto-japan-3000x2000-5288.2bc1887531ecae3c35e9.jpg",
+    "static/media/rainbow bridge.jpg": "/react-portfolio/static/media/rainbow bridge.f00b28159c380ac2d0c7.jpg",
+    "static/media/myresume.png": "/react-portfolio/static/media/myresume.6c894b68f09092a68b91.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.64d4d42b.css.map": "/react-portfolio/static/css/main.64d4d42b.css.map",
+    "main.2c830b12.js.map": "/react-portfolio/static/js/main.2c830b12.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a0b6416.css",
-    "static/js/main.5633d2d1.js"
+    "static/css/main.64d4d42b.css",
+    "static/js/main.2c830b12.js"
   ]
 }
