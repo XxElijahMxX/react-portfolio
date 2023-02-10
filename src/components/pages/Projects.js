@@ -10,6 +10,11 @@ export default function Projects() {
         <div className="cards__container">
           <div className="cards__wrapper">
             <ul className="cards__items">
+            <CardItem
+              src="/images/cinna thumb.PNG"
+              text="Landing page for a bakery"
+              label="Website"
+            />
               <CardItem
                 src="/images/PixelCart.png"
                 text="Amazon clone for retro video game systems"
@@ -34,6 +39,12 @@ export default function Projects() {
                 label="Password Generator"
                 path="/projects"
               />
+              <CardItem
+              src="/images/pixel cart new.png"
+              text="Pixel Cart(new version)"
+              label="ECommerce"
+              path="/projects"
+            />
             </ul>
           </div>
         </div>
